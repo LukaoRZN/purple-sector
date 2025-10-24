@@ -1,0 +1,11 @@
+* { margin: 0; padding: 0; box-sizing: border-box;}
+
+body { width: 100%; padding: 10px; color: aliceblue;}
+
+a { text-decoration: none; color: aliceblue; }
+
+a:hover { color: #fc0284; }
+
+img { width: 200px; height:45px; }
+
+th { color: #fc0284;}
