@@ -1,15 +1,11 @@
 body {
   background: black;
   color: #fff;
-  
 }
 
-.list ul {
-  position: absolute;
-}
-
-.list li {
-  list-style: none;
+.list {
+  max-width: 100%;
+  width: 75%;
 }
 
 .list img{
@@ -18,4 +14,5 @@ body {
   width: 75px;
   height: 75px;
   border-radius: 65%;
+  padding: 10px;
 }
