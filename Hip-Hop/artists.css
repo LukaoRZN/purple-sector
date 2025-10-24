@@ -11,8 +11,8 @@ body {
 .list img{
   position: relative;
   display: inline;
-  width: 75px;
-  height: 75px;
+  width: 85px;
+  height: 85px;
   border-radius: 65%;
   padding: 10px;
 }
