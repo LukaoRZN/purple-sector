@@ -4,10 +4,6 @@ body {
   
 }
 
-.list ul {
-  list-style: none;
-}
-
 .list li{
   text-decoration: none;
   display: flex;
