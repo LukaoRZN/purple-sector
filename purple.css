@@ -2,14 +2,6 @@ body
 { display: flex;
 }
 
-.main 
-{ 
-}
-
-.sidebar
-{  margin: 10px;
-}
-
 .sidebar figcaption 
 { background: black;
  color: #fff;
