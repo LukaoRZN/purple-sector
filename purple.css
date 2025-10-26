@@ -22,14 +22,21 @@ max-height: 100%;
 
 
 .sidebar figure{
-  border-radius: 35%;
-  border: 1px black;
+
 }
 
+.sidebar figcaption {
+ background: black;
+ color: #fff;
+ padding: 10%;
+ border-radius: 5%;
+
+}
 
 .sidebar img {
   width: 130px;
   height: 100px;
+  border-radius: 5%;
 }
 
 .pilotos {
