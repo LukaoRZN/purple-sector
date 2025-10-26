@@ -14,21 +14,14 @@ max-height: 100%;
 
 .sidebar
 {
-  float: right;
   max-width: 30%;
   max-height: 100%;
   margin: 10px;
 }
 
-
-.sidebar figure{
-
-}
-
 .sidebar figcaption {
  background: black;
  color: #fff;
- padding: 10%;
  border-radius: 5%;
 
 }
@@ -46,6 +39,7 @@ max-height: 100%;
   background: red;
   overflow-x: scroll;
   overflow-y: scroll;
+  margin: 10px;
 }
 
 .tabela {
@@ -57,6 +51,9 @@ height: 170px;
 max-width: 70%;
 border-radius: 13px;
 background: red;
+overflow-x: scroll;
+overflow-y: scroll;
+margin: 10px;
 }
 
 
@@ -65,4 +62,5 @@ height: 170px;
 max-width: 70%;
 border-radius: 13px;
 background: red;
+margin: 10px;
 }
