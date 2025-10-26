@@ -1,16 +1,12 @@
 body
-{
-display: flex;  
+{ display: flex;
+  
 }
-
 
 .main 
-{
-max-width: 70%;    
+{ max-width: 70%;    
 max-height: 100%;
 }
-
-
 
 .sidebar
 {
@@ -19,14 +15,16 @@ max-height: 100%;
   margin: 10px;
 }
 
-.sidebar figcaption {
+.sidebar figcaption 
+{
  background: black;
  color: #fff;
  border-radius: 5%;
 
 }
 
-.sidebar img {
+.sidebar img
+ {
   width: 130px;
   height: 100px;
   border-radius: 5%;
@@ -43,9 +41,23 @@ max-height: 100%;
 }
 
 .tabela {
-  padding: 5px;
+  background-color: #F6F9FE;
+  overflow: scroll;
+}
+.tabela {
+  background-color: #F6F9FE;
+  overflow: scroll;
 }
 
+.tabela img {
+  width: 30px;
+  height: 30px;
+}
+
+#chassi img {
+  width: 150px;
+  height: 30px;
+}
 .equipes {
 height: 170px;
 max-width: 70%;
