@@ -1,5 +1,6 @@
 body
 { display: flex;
+background: linear-gradient(145deg, #E5A2FF, #610050);
 }
 
 .main
