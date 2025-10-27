@@ -36,8 +36,9 @@ th
 }
 
 .tabela 
-{
+{border-collapse: collapse;
   overflow: scroll;
+  text-align: center;
 }
 
 .tabela img 
@@ -49,6 +50,12 @@ th
 .tabela th 
 {
   padding: 15px;
+}
+
+.tabelaBR table 
+{
+  border-collapse: collapse;
+  text-align: center;
 }
 
 .tabelaBR img 
