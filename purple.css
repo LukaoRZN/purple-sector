@@ -10,7 +10,8 @@ th
 }
 .banner 
 {
-  margin: none;
+ margin: none;
+ padding: none;
 }
 .sidebar figcaption 
 { background: black;
