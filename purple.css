@@ -47,6 +47,10 @@ background: linear-gradient(115deg, #E5A2FF, #610050);
   height: 30px;
 }
 
+#logo img
+{
+  width: 27px;
+}
 .equipes 
 {height: 170px;
 border-radius: 13px;
