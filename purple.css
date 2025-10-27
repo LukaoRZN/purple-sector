@@ -1,8 +1,13 @@
 body
 { 
-background: linear-gradient(115deg, #E5A2FF, #610050);
+  color: #fff;
+background: #000;
 }
 
+th 
+{
+  color: #7B1FA2;
+}
 .banner 
 {
   margin: none;
@@ -20,12 +25,13 @@ background: linear-gradient(115deg, #E5A2FF, #610050);
 }
 
 .pilotos
-{
-  height: 170px;
+{ margin: 15px;
+  padding: 5px;
+  height: 190px;
   border-radius: 13px;
   overflow-x: scroll;
   overflow-y: scroll;
-  background: grey;
+  background: #424242;
 }
 
 .tabela 
@@ -54,18 +60,23 @@ background: linear-gradient(115deg, #E5A2FF, #610050);
   margin: 5px;
 }
 .equipes 
-{height: 170px;
+{
+  margin: 15px;
+  padding: 5px;
+height: 190px;
 border-radius: 13px;
 overflow-x: scroll;
 overflow-y: scroll;
-margin: 5%;
+background: #424242;
 }
 
 .brasileiro 
 {
-height: 170px;
+padding: 5px;
+height: 190px;
 border-radius: 13px;
 overflow-x: scroll;
 overflow-y: scroll;
-margin: 5%;
+background: #424242;
+margin: 15px;
 }
