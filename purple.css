@@ -14,8 +14,6 @@ margin: 5px;
 
 .sidebar
 {
-  max-width: 95%;
-  margin: none;
  margin: 5px;
  padding: 10px;
 
@@ -23,8 +21,7 @@ margin: 5px;
 
 .bottom
 {
-max-height: 20%;
-max-width: 90%;
+
 background: blue;
 height: 25px;
 margin: 5px;
