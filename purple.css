@@ -64,7 +64,7 @@ height: 120px;
 {
 padding: 5px;
 margin: 7px;
-width: 180px;
+width: 150px;
 border-radius: 13px;
 }
 
@@ -78,25 +78,19 @@ border-radius: 13px;
 
 .tabela 
 {
-  width: 120px;
+  width: 130px;
 padding: 5px;
 text-align: center;
 border-radius: 8px;
 
 }
 
-tr 
-{
-  width: 25px;
-margin: 5px;}
-
-.td 
-{ border-collapse: collapse;
+table { border-collapse: collapse;
 }
 
-.tabela th
+table td
 {
-padding: 5px;
+border-top: 1px solid white;
 }
 
 .equipes 
