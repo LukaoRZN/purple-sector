@@ -15,9 +15,9 @@ margin: 5px;
 .sidebar
 {
   max-width: 90%;
-  background: black;
   overflow: scroll;
   margin: none;
+  display: inline-flex;
   }
 
 .bottom
@@ -32,6 +32,8 @@ margin: 10px;
 .sidebar figure
 {
 overflow: hidden;
+width: 220px;
+
 }
 
 .sidebar figcaption 
@@ -82,6 +84,7 @@ tr
 {
 border: 1px solid black;
 }
+
 .tabela th
 {
 padding: 15px;
@@ -93,7 +96,6 @@ padding: 5px;
 margin: 20px;
 height: 190px;
 width: 300px;
-background: black;
 border-radius: 13px;
 overflow: scroll;
 }
