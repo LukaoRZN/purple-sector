@@ -8,7 +8,7 @@ position: absolute;
 .main
 {
 max-height: 55%;
-
+max-width:90%;
 display: inline-flex;
 margin: 5px;
 }
