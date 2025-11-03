@@ -10,6 +10,7 @@ position: absolute;
 max-height: 60%;
 display: inline-flex;
 margin: 5px;
+overflow: hidden;
 }
 
 .sidebar
@@ -54,8 +55,7 @@ margin: 20px;
 height: 190px;
 width: 300px;
 border-radius: 13px;
-overflow-x: scroll;
-overflow-y: scroll;
+overflow: scroll;
 }
 
 .pilotos
@@ -65,8 +65,7 @@ overflow-y: scroll;
   width: 300px;
 
   border-radius: 13px;
-  overflow-x: scroll;
-  overflow-y: scroll;
+  overflow: scroll;
 }
 
 .tabela 
