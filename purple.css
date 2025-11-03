@@ -42,9 +42,28 @@ max-width: 67%;
 }
 
 .tabela 
-{border-collapse: collapse;
+{
+border-collapse: collapse;
 overflow: scroll;
 background: #bdbdbd;
+padding: 10px;
+text-align: center;
+}
+
+.tabela th
+{
+padding: 5px;
+}
+
+.equipes 
+{
+margin: 15px;
+padding: 5px;
+height: 190px;
+border-radius: 13px;
+overflow-x: scroll;
+overflow-y: scroll;
+max-width: 67%;
 }
 
 .tabela img 
@@ -67,14 +86,4 @@ background: #bdbdbd;
   margin: 5px;
 }
 
-.equipes 
-{
-margin: 15px;
-padding: 5px;
-height: 190px;
-border-radius: 13px;
-overflow-x: scroll;
-overflow-y: scroll;
-max-width: 67%;
-}
 
