@@ -2,6 +2,7 @@ body
 { 
 font-size: 10px;
 width: 100%;
+display: inline;
 }
 
 .main
@@ -9,17 +10,16 @@ width: 100%;
 max-width: 65%;
 max-height: 75%;
 display: inline-flex;
+overflow: scroll;
+padding: 50px;
 
 }
 
 .sidebar
 {
-  max-width: 30%;
-  max-height: 75%;
   background: black;
   margin: none;
-  overflow-y: scroll;
-}
+  }
 
 .bottom
 {
@@ -48,7 +48,9 @@ overflow: hidden;
 .brasileiro 
 {
 padding: 5px;
+margin: 20px;
 height: 190px;
+width: 850px;
 border-radius: 13px;
 overflow-x: scroll;
 overflow-y: scroll;
@@ -56,7 +58,10 @@ overflow-y: scroll;
 
 .pilotos
 { padding: 5px;
+  margin: 20px;
   height: 190px;
+  width: 850px;
+
   border-radius: 13px;
   overflow-x: scroll;
   overflow-y: scroll;
@@ -84,7 +89,10 @@ padding: 15px;
 .equipes 
 {
 padding: 5px;
+margin: 20px;
 height: 190px;
+width: 850px;
+background: black;
 border-radius: 13px;
 overflow-x: scroll;
 overflow-y: scroll;
