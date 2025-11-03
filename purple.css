@@ -7,10 +7,10 @@ th
 {
   color: #7B1FA2;
 }
-.banner 
+
+.sidebar
 {
- margin: none;
- padding: none;
+  max-width: 30%;
 }
 .sidebar figcaption 
 { background: black;
@@ -19,7 +19,7 @@ th
 }
 
 .sidebar img
-{width: 130px;
+{width: 230px;
   height: 100px;
   border-radius: 5%;
 }
