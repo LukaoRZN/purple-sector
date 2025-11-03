@@ -7,11 +7,17 @@ width: 100%;
 .feed
 {
   width: 90%;
- margin: 5px;
- padding: 10px;
-
+ padding: 5px;
   }
 
+.feed h3
+{
+background: black;
+color: #fff;
+text-align: center;
+font-size: 20px;
+margin: none 0 0 0;
+}
 .bottom
 {
 width: 90%;
@@ -87,7 +93,7 @@ width: 50px;
 
 table td
 {
-padding-top: 15px;  
+padding-top: 10px;  
 border-bottom: 1px solid white;
 }
 
