@@ -1,6 +1,6 @@
 body
 { 
-
+display: flex;
 }
 
 th 
@@ -32,6 +32,7 @@ th
   overflow-x: scroll;
   overflow-y: scroll;
   background: #424242;
+  max-width: 67%;
 }
 
 .tabela 
@@ -88,6 +89,7 @@ border-radius: 13px;
 overflow-x: scroll;
 overflow-y: scroll;
 background: #424242;
+max-width: 67%;
 }
 
 .brasileiro 
@@ -99,4 +101,5 @@ overflow-x: scroll;
 overflow-y: scroll;
 background: #424242;
 margin: 15px;
+max-width: 67%;
 }
