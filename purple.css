@@ -15,6 +15,7 @@ overflow: hidden;
 .sidebar figcaption 
 { background: #bdbdbd;
  border-radius: 5%;
+overflow: hidden;
 }
 
 .sidebar img
