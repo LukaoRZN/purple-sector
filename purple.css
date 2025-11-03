@@ -7,17 +7,18 @@ position: absolute;
 
 .main
 {
-max-height: 70%;
+max-height: 60%;
 display: inline-flex;
 margin: 5px;
 }
 
 .sidebar
 {
-  max-width: 90%;
-  overflow: scroll;
+  max-width: 95%;
   margin: none;
-  display: inline-flex;
+ margin: 5px;
+ padding: 10px;
+
   }
 
 .bottom
@@ -26,13 +27,15 @@ max-height: 20%;
 max-width: 90%;
 background: blue;
 height: 25px;
-margin: 10px;
+margin: 5px;
 }
 
 .sidebar figure
 {
-overflow: hidden;
+margin: 10px;
 width: 220px;
+height: 120px;
+display: inline-block;
 
 }
 
