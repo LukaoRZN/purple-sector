@@ -14,7 +14,7 @@ margin: 5px;
 border-radius:10px ;
 color: #fff;
 background: #6a1b9a;
-overflow: scroll;
+overflow-y: scroll;
 }
 
 .sidebar
@@ -89,6 +89,10 @@ margin: 5px;
 tr 
 {
 margin: 5px;}
+
+.td 
+{ border-collapse: collapse;
+}
 
 .tabela th
 {
