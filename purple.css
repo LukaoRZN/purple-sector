@@ -78,7 +78,7 @@ border-radius: 13px;
 
 .tabela 
 {
-margin: 10px;
+  width: 120px;
 padding: 5px;
 text-align: center;
 border-radius: 8px;
@@ -87,6 +87,7 @@ border-radius: 8px;
 
 tr 
 {
+  width: 25px;
 margin: 5px;}
 
 .td 
