@@ -2,33 +2,33 @@ body
 { 
 font-size: 10px;
 width: 100%;
-display: inline;
+position: absolute;
 }
 
 .main
 {
-max-width: 65%;
-max-height: 75%;
+max-height: 70%;
 display: inline-flex;
-overflow: scroll;
-padding: 50px;
-
+margin: 5px;
 }
 
 .sidebar
 {
+  max-width: 90%;
   background: black;
+  overflow: scroll;
   margin: none;
   }
 
 .bottom
 {
 max-height: 20%;
+max-width: 90%;
 background: blue;
-display: block;
-width: 90%;
 height: 25px;
+margin: 10px;
 }
+
 .sidebar figure
 {
 overflow: hidden;
@@ -50,7 +50,7 @@ overflow: hidden;
 padding: 5px;
 margin: 20px;
 height: 190px;
-width: 850px;
+width: 300px;
 border-radius: 13px;
 overflow-x: scroll;
 overflow-y: scroll;
@@ -60,7 +60,7 @@ overflow-y: scroll;
 { padding: 5px;
   margin: 20px;
   height: 190px;
-  width: 850px;
+  width: 300px;
 
   border-radius: 13px;
   overflow-x: scroll;
@@ -73,6 +73,7 @@ overflow: scroll;
 padding: 8px;
 text-align: center;
 border-radius: 8px;
+margin: 15px;
 
 
 }
@@ -91,11 +92,10 @@ padding: 15px;
 padding: 5px;
 margin: 20px;
 height: 190px;
-width: 850px;
+width: 300px;
 background: black;
 border-radius: 13px;
-overflow-x: scroll;
-overflow-y: scroll;
+overflow: scroll;
 }
 
 .tabela img 
