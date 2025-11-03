@@ -7,10 +7,14 @@ position: absolute;
 
 .main
 {
-max-height: 55%;
+max-height: 65%;
+height: 220px;
 max-width:90%;
 display: inline-flex;
 margin: 5px;
+border-radius:10px ;
+color: #fff;
+background: purple;
 }
 
 .sidebar
@@ -52,7 +56,6 @@ display: inline-block;
 {
 padding: 5px;
 margin: 20px;
-height: 190px;
 width: 300px;
 border-radius: 13px;
 overflow: scroll;
@@ -61,7 +64,6 @@ overflow: scroll;
 .pilotos
 { padding: 5px;
   margin: 20px;
-  height: 190px;
   width: 300px;
 
   border-radius: 13px;
@@ -70,7 +72,6 @@ overflow: scroll;
 
 .tabela 
 {
-overflow: scroll;
 padding: 8px;
 text-align: center;
 border-radius: 8px;
@@ -92,7 +93,6 @@ padding: 15px;
 {
 padding: 5px;
 margin: 20px;
-height: 190px;
 width: 300px;
 border-radius: 13px;
 overflow: scroll;
