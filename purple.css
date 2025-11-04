@@ -131,7 +131,7 @@ width: 20px;
 
 .nav { 
   background: none;
-  max-width: 90%;
+  max-width: 95%;
   display: inline-flex;
   overflow: scroll;
   border-radius:7%;
@@ -151,7 +151,7 @@ width: 20px;
   fill: currentcolor;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   text-transform: uppercase;
-  font-size: 10px;
+  font-size: 6px;
   font-weight: 500;
   height: 40px;
   justify-content: center;
