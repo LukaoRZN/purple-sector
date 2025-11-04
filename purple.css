@@ -60,9 +60,9 @@ margin: 7px;
 width: 90%;
 border-radius: 13px;
 overflow: scroll;
-background: black;
-color: #fff;
-}
+color: white;
+background: #302a2a;
+background: linear-gradient(60deg, rgba(48, 42, 42, 1) 8%, rgba(151, 13, 189, 1) 40%, rgba(1, 10, 10, 10.67) 70%);}
 
 .pilotos
 { height: 150px;
@@ -106,9 +106,9 @@ margin: 7px;
 width: 90%;
 border-radius: 13px;
 overflow: scroll;
-background: black;
-color: #fff;
-}
+color: white;
+background: #302a2a;
+background: linear-gradient(60deg, rgba(48, 42, 42, 1) 8%, rgba(151, 13, 189, 1) 40%, rgba(1, 10, 10, 10.67) 70%);}
 
 .tabela img 
 {
