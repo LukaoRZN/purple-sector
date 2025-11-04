@@ -198,7 +198,7 @@ width: 20px;
 }
 
 .list {
-  overflow: scroll;
+  overflow-y: scroll;
   display: inline-flex;
   padding: 10px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
