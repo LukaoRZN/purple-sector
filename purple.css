@@ -89,13 +89,11 @@ table { border-collapse: collapse;
 width: 90%;
 }
 
-table th
-{
+table th{
 width: 50px;
 }
 
-table td
-{
+table td{
 padding-top: 10px;  
 }
 
@@ -134,6 +132,7 @@ width: 20px;
   background: none;
   max-width: 90%;
   display: inline-flex;
+  overflow: scroll;
 }
 /* BOTÃO DE SELEÇÃO */
 .button-17 {
