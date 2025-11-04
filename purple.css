@@ -6,7 +6,8 @@ width: 100%;
 
 .menu
 {
-overflow-x: scroll;
+max-width: 90%;
+overflow: scroll;
 display: inline-flex;
 }
 
