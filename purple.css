@@ -132,7 +132,6 @@ width: 20px;
 /* BOTÃO DE SELEÇÃO */
 .button-17 {
   align-items: center;
-  appearance: none;
   background: linear-gradient(145deg, #9e06ab, #bb07cb);
   border-radius: 24px;
   border-style: none;
