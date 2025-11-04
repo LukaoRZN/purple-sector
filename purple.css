@@ -132,6 +132,8 @@ width: 20px;
 
 .nav { 
   background: none;
+  max-width: 90%;
+  display: inline-flex;
 }
 /* BOTÃO DE SELEÇÃO */
 .button-17 {
@@ -199,7 +201,6 @@ width: 20px;
 }
 
 .list {
-  display: inline-flex;
   padding: 10px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
