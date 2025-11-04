@@ -4,6 +4,17 @@ font-size: 10px;
 width: 100%;
 }
 
+.menu
+{
+overflow-x: scroll;
+display: inline-flex;
+}
+
+.menu button
+{
+margin-right: 15px;
+}
+
 .feed
 {
   width: 90%;
