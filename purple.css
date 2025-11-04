@@ -122,14 +122,6 @@ width: 20px;
   border-radius:7%;
 }
 
-.li :active .brasileiro{
-  transition-delay: 0.3s;
-  overflow: visible;
-  color: #000;
-  text-align: left;
-  list-style-position: outside;
-}
-
 .button-17 {
   align-items: center;
   background: linear-gradient(145deg, #9e06ab, #bb07cb);
