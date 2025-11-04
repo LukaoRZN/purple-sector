@@ -122,6 +122,14 @@ width: 20px;
   border-radius:7%;
 }
 
+.li :active .brasileiro{
+  transition-delay: 0.3s;
+  overflow: visible;
+  color: #000;
+  text-align: left;
+  list-style-position: outside;
+}
+
 .button-17 {
   align-items: center;
   background: linear-gradient(145deg, #9e06ab, #bb07cb);
@@ -210,17 +218,15 @@ width: 20px;
   list-style: none;
   position: relative;
   padding: 10px;
+  
 }
+
 
 .list-item li {
   padding: 1px;
   margin: 5px;
 }
 
-.list-item a:hover {
-  border-bottom: 3px solid #9e06ab;
-  transition: 400ms ease-out;
-}
 
 .list:hover .list-item {
   visibility: visible;
