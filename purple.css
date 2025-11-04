@@ -60,7 +60,7 @@ margin: 7px;
 width: 90%;
 border-radius: 13px;
 overflow: scroll;
-background: purple;
+background: black;
 color: #fff;
 }
 
@@ -71,7 +71,7 @@ margin: 7px;
 width: 90%;
 border-radius: 13px;
 overflow: scroll;
-background: purple;
+background: black;
 color: white;
 }
 
@@ -95,7 +95,7 @@ width: 50px;
 table td
 {
 padding-top: 10px;  
-border-bottom: 1px solid white;
+border-bottom: 3px solid purple;
 }
 
 .equipes 
@@ -106,7 +106,7 @@ margin: 7px;
 width: 90%;
 border-radius: 13px;
 overflow: scroll;
-background: purple;
+background: black;
 color: #fff;
 }
 
