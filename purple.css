@@ -8,7 +8,7 @@ width: 100%;
 {
 max-width: 90%;
 overflow: scroll;
-display: inline;
+display: inline-flex;
 }
 
 .menu select
