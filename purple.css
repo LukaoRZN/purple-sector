@@ -205,7 +205,7 @@ width: 20px;
 }
 
 .list-item {
-  width: auto;
+  width: 200px;
   height: auto;
   margin-top: 10px;
   border-radius: 5px;
@@ -221,7 +221,8 @@ width: 20px;
 
 .list-item ul {
   list-style: none;
-  padding: 1px;
+  
+  padding: 10px;
 }
 
 .list-item li {
